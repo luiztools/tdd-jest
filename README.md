@@ -7,6 +7,8 @@ Para o tutorial de integration tests, visite: https://www.luiztools.com.br/post/
 
 Para o tutorial de mocking, visite: https://www.luiztools.com.br/post/tdd-como-criar-mocks-em-node-js-com-jest/
 
+Para o tutorial de mocking com AWS, visite: https://www.luiztools.com.br/post/tdd-como-criar-mocks-em-node-js-com-jest-aws/
+
 Conheça meus livros: https://www.luiztools.com.br/meus-livros
 
 Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
